@@ -35,4 +35,7 @@ Portfolio :
     // <meta name="description" content="Site officiel de Nina Carducci, photographe professionnelle">
     // <meta name="keywords" content="Photographe, photographies, photos, nina, carducci">
     // <meta name="author" content="Nina Carducci">
+  > included minified version of bootstrap :
+    // <link rel="stylesheet" href="./assets/bootstrap/bootstrap.min.css">
+  > converted all images in wep format
 
