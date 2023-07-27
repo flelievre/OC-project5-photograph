@@ -37,5 +37,7 @@ Portfolio :
     // <meta name="author" content="Nina Carducci">
   > included minified version of bootstrap :
     // <link rel="stylesheet" href="./assets/bootstrap/bootstrap.min.css">
+  > minified version of style.css (using https://www.toptal.com/developers/cssminifier) : <link rel="stylesheet" href="./assets/style.min.css"> 
   > converted all images in wep format
+
 
