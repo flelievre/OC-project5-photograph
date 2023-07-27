@@ -31,4 +31,8 @@ Portfolio :
   > added "for" attributes on <label>
   > added/modified to include a <nav>, a <main> and a <footer> tag
   > changed h1, h2, h3 tags and quote to <p> (and changed its font-size to match original size)
+  > added meta description, keywords and author :
+    // <meta name="description" content="Site officiel de Nina Carducci, photographe professionnelle">
+    // <meta name="keywords" content="Photographe, photographies, photos, nina, carducci">
+    // <meta name="author" content="Nina Carducci">
 
