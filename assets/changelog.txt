@@ -1,10 +1,19 @@
 Portfolio :
+
 > "cursor: pointer" sur categories
+  // style.css 
+    // 122 .gallery-item { [...]; cursor: pointer}
+
 > "cursor: pointer" sur images
-> // maugallery.js - 156
+  // style.css 
+    // 108 .nav-pills .nav-link { [...]; cursor: pointer}
+
+> gallery : prev image button
+  // maugallery.js - 156
       next =
         imagesCollection[index - 1] ||
-> // maugallery.js - 195
+> gallery : next image button
+  // maugallery.js - 195
       next =
         imagesCollection[index + 1] ||
 
