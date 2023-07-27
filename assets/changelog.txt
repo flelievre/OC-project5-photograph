@@ -1,0 +1,10 @@
+Portfolio :
+> "cursor: pointer" sur categories
+> "cursor: pointer" sur images
+> // maugallery.js - 156
+      next =
+        imagesCollection[index - 1] ||
+> // maugallery.js - 195
+      next =
+        imagesCollection[index + 1] ||
+
