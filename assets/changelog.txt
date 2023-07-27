@@ -20,3 +20,13 @@ Portfolio :
 > gallery : category button
   // muagallery.js - 243 - add "active"
     $(this).addClass("active active-tag");
+
+> index.html
+  > 17 alt text added to images
+  > added lang to html tag : <html lang="fr">
+  > added <title> tag : <title>Nina Carducci | Photographe</title>
+  > changed color of portfolio active category text to increase contrast 
+    // .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    //  color: #000 !important;
+  > added "for" attributes on <label>
+
