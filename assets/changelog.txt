@@ -9,11 +9,14 @@ Portfolio :
     // 108 .nav-pills .nav-link { [...]; cursor: pointer}
 
 > gallery : prev image button
-  // maugallery.js - 156
+  // maugallery.js - 156 - add "- 1"
       next =
         imagesCollection[index - 1] ||
 > gallery : next image button
-  // maugallery.js - 195
+  // maugallery.js - 195 - add "+ 1"
       next =
         imagesCollection[index + 1] ||
 
+> gallery : category button
+  // muagallery.js - 243 - add "active"
+    $(this).addClass("active active-tag");
