@@ -35,10 +35,13 @@ Portfolio :
     // <meta name="description" content="Site officiel de Nina Carducci, photographe professionnelle">
     // <meta name="keywords" content="Photographe, photographies, photos, nina, carducci">
     // <meta name="author" content="Nina Carducci">
-  > included minified version of bootstrap :
+  > included minified version of bootstrap CSS AND JS:
     // <link rel="stylesheet" href="./assets/bootstrap/bootstrap.min.css">
+    // <script src="./assets/bootstrap/bootstrap.bundle.min.js"></script>
   > minified version of style.css (using https://www.toptal.com/developers/cssminifier) : <link rel="stylesheet" href="./assets/style.min.css"> 
-  > converted all images in wep format
+  > moove scripts import at end of <body>
+  > converted all images in webp format
+  > resized all images (reduced)
   > added local seo information
 
 
