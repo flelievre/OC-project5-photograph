@@ -38,6 +38,7 @@ Portfolio :
   > included minified version of bootstrap CSS AND JS:
     // <link rel="stylesheet" href="./assets/bootstrap/bootstrap.min.css">
     // <script src="./assets/bootstrap/bootstrap.bundle.min.js"></script>
+  > removed unsued css (https://purifycss.online/)
   > minified version of style.css (using https://www.toptal.com/developers/cssminifier) : <link rel="stylesheet" href="./assets/style.min.css"> 
   > moove scripts import at end of <body>
   > converted all images in webp format
